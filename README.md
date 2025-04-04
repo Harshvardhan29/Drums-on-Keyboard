@@ -1,1 +1,2 @@
 # Drums-on-Keyboard
+Drums on Keyboard is a fun, interactive web-based drum kit that lets you play different drum sounds using your keyboard. Built with HTML, CSS, and JavaScript, this project maps specific keys to drum beats, allowing users to create rhythms in real time. Simply press a key, and the corresponding drum sound plays instantly, making it an engaging way to explore digital percussion. Future enhancements include adding more drum sounds, custom key mappings, visual animations, and mobile support. Clone the repo, open index.html, and start drumming! 🥁🎶
